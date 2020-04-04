@@ -1,0 +1,42 @@
+body {
+
+}
+#header {
+
+}
+#header-img{
+    width: 100px;
+    height: 60px;
+}
+#nav-bar{
+display: block;
+float: right;
+margin-right: 50px;
+
+}
+li a {
+    text-decoration: none;
+}
+.nav-link{
+display: inline;
+
+padding: 20px;
+}
+
+#video {
+    margin: 100px 250px 0px 400px;
+
+}
+#form {
+    margin: 20px 300px 20px 500px;
+    
+}
+#email, #email-label {
+    display: inline;
+    margin: 0 auto;
+    text-align: center;
+}
+#submit {
+    display: inline-block;
+    margin: 0 auto;
+}
